@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFlowey",
-    "path": "sprites/sFlowey/sFlowey.yy",
+    "name": "sFloweyTalking_hidden",
+    "path": "sprites/sFloweyTalking_hidden/sFloweyTalking_hidden.yy",
   },
   "spriteMaskId": null,
   "visible": true,

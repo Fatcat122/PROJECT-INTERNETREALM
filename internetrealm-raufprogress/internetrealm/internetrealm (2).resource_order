@@ -18,11 +18,10 @@
     {"name":"The_Determinator","order":8,"path":"sprites/The_Determinator/The_Determinator.yy",},
     {"name":"sPlayerRight","order":10,"path":"sprites/sPlayerRight/sPlayerRight.yy",},
     {"name":"sTrigger","order":4,"path":"sprites/sTrigger/sTrigger.yy",},
-    {"name":"sFlowey","order":18,"path":"sprites/sFlowey/sFlowey.yy",},
     {"name":"sSave","order":17,"path":"sprites/sSave/sSave.yy",},
     {"name":"sRuinsFlowey","order":5,"path":"sprites/sRuinsFlowey/sRuinsFlowey.yy",},
     {"name":"sPlayerDown","order":1,"path":"sprites/sPlayerDown/sPlayerDown.yy",},
-    {"name":"sFloweyTalking_hidden","order":2,"path":"sprites/sFloweyTalking_hidden/sFloweyTalking_hidden.yy",},
-    {"name":"sFlowey_unveiling","order":3,"path":"sprites/sFlowey_unveiling/sFlowey_unveiling.yy",},
+    {"name":"sFloweyTalking","order":2,"path":"sprites/sFloweyTalking/sFloweyTalking.yy",},
+    {"name":"sFlowey","order":3,"path":"sprites/sFlowey/sFlowey.yy",},
   ],
 }
