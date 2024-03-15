@@ -1,8 +1,8 @@
 //misc textbox stuff.
 confirm_key = keyboard_check_pressed(ord("Z")) or keyboard_check_pressed(vk_enter);
 //drawing the textbox.
-textbox_x = camera_get_view_x(view_camera[0]);
-textbox_y = camera_get_view_y(view_camera[0]) + 140;
+textbox_x = camera_get_view_x(view_camera[0]) - 25;
+textbox_y = camera_get_view_y(view_camera[0]) + 150;
 
 //setup (making the textbox stop you from moving + misc stuff).
 if(setup == false) {

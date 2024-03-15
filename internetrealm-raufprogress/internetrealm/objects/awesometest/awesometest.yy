@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oWarp",
+  "%Name":"awesometest",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oWarp",
+  "name":"awesometest",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Textbox",
+    "path":"folders/Textbox.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWarp",
-    "path":"sprites/sWarp/sWarp.yy",
+    "name":"Sprite23",
+    "path":"sprites/Sprite23/Sprite23.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

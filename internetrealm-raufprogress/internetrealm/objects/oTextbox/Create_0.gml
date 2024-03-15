@@ -1,6 +1,6 @@
 ///Textbox perams
-textbox_width = 221;
-textbox_hight = 73;
+textbox_width = 289;
+textbox_hight = 76;
 border = 8;
 line_seperation = 15;
 line_width = textbox_width - border*2;
